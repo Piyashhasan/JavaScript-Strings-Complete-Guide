@@ -848,7 +848,7 @@ If you found this guide helpful, please give it a ⭐️!
 ## 📞 Connect
 
 - **GitHub:** [Piyash Hasan](https://github.com/Piyashhasan)
-- **LinkedIn:** [Piyash Hasan](www.linkedin.com/in/piyashhasan)
+- **LinkedIn:** [Piyash Hasan](https://www.linkedin.com/in/piyashhasan/)
 
 ---
 
